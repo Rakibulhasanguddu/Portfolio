@@ -1,3 +1,5 @@
+import Contact from "../component/Contact";
+import Expreince from "../component/Expreince";
 import MySkill from "../component/MySkill";
 
 
@@ -18,6 +20,8 @@ const Aboutme = () => {
            </div>
 
           <MySkill></MySkill>
+          <Expreince></Expreince>
+          <Contact></Contact>
         </div>
     );
 };

@@ -18,15 +18,15 @@ const MySkill = () => {
          <ProgressBar className="p-5" completed={95} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
   />
 
-<p className="font-bold pl-5 pt-3">HTML </p>
-         <ProgressBar className="p-5" completed={95} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
+<p className="font-bold pl-5 pt-3">java Script </p>
+         <ProgressBar className="p-5" completed={75} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
   />
 
-<p className="font-bold pl-5 pt-3">HTML </p>
-         <ProgressBar className="p-5" completed={95} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
+<p className="font-bold pl-5 pt-3">React js </p>
+         <ProgressBar className="p-5" completed={90} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
   />
-<p className="font-bold pl-5 pt-3">HTML </p>
-         <ProgressBar className="p-5" completed={95} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
+<p className="font-bold pl-5 pt-3">Firebase & Mongodb </p>
+         <ProgressBar className="p-5" completed={70} bgColor="#FFA500" transitionDuration="3s" transitionTimingFunction="ease-in-out"
   />
             </div>
         </div>
